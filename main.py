@@ -5,7 +5,7 @@ pygame.init()
 screen_width = 700
 screen_height = 500
 WIN = pygame.display.set_mode([screen_width, screen_height])
-pygame.display.set_caption ("New Game")
+pygame.display.set_caption ("aha man ka gatan-aw ug maayu. title ra gani ako gi change. HAHAHAAHAHHA")
 
 #! x, y,isJUMP, Player_y_ Momentum, and jumpCount is for the jump
 x = 50
